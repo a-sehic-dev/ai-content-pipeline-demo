@@ -121,7 +121,12 @@ ai-content-pipeline-demo/
   .gitignore
   README.md
 ```
+## 💡 What this demonstrates
 
+- Scalable content pipeline design
+- Clean separation of generation and execution
+- System thinking (not just scripts)
+- Ready to extend into production with Supabase + n8n + LLM APIs
 ## How this maps to a real production build
 This demo is intentionally local + lightweight. In a production build you would typically:
 
