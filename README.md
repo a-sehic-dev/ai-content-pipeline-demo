@@ -1,6 +1,9 @@
 # AI Content Pipeline Demo
 
 ## Overview
+## 🚀 One Input → Hundreds of Localized Posts
+
+This demo shows how a single campaign input can generate hundreds of localized posts and automatically process them through a queue + worker system for multi-platform publishing.
 This repository is a **minimal but realistic backend architecture demo** of a scalable content generation and multi-platform publishing pipeline.
 
 The core idea is simple:
