@@ -1,0 +1,3 @@
+# This demo intentionally uses the Python standard library only.
+# (Optional future add-ons: fastapi, pydantic, rich, etc.)
+
